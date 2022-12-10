@@ -18,12 +18,11 @@ include 'connect.php';
         <table class="table">
   <thead>
     <tr>
-      <th scope="col">SL no</th>
-      <th scope="col">Title</th>
+      <th scope="col">Number</th>
+      <th scope="col">Name</th>
       <th scope="col">Description</th>
-      <th scope="col">Due Date</th>
-      <th scope="col">Completed</th>
-      <th scope="col">Operations</th>
+      <th scope="col">Due date</th>
+      <th scope="col">Completed tasks</th>
     </tr>
   </thead>
   <tbody>
